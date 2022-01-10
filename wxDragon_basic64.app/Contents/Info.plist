@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>18D109</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>All Files</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleIdentifier</key>
+	<string>wxDragon</string>
+<key>CFBundleTypeName</key>
+<string>*</string>
+<key>LSItemContentTypes</key>
+<string>*</string>
+	<key>CFBundleExecutable</key>
+	<string>wxDragon</string>
+	<key>CFBundleIconFile</key>
+	<string>wxDragon.icns</string>
+	<key>CFBundleName</key>
+	<string>wxDragon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>BEc%</string>
+	<key>CFBundleVersion</key>
+	<string>2.1.9</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.1.9</string>
+	<key>CFBundleGetInfoString</key>
+	<string>wxDragon Basic version 2.1.9, (c) 1994-2019 Bernhard Eck</string>
+	<key>CFBundleLongVersionString</key>
+	<string>2.1.9, (c) 1994-2019 Bernhard Eck</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright 1994-2019 Bernhard Eck</string>
+	<key>LSRequiresCocoa</key>
+        <true/>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+</dict>
+</plist>
